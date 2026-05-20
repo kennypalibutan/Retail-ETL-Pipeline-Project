@@ -43,10 +43,11 @@ The project demonstrates fundamental skills in:
 # 📂 Project Structure
 
 ```bash
-├── coda_P0M1_yourname.ipynb     # ETL process notebook
-├── coda_P0M1_yourname.sql       # PostgreSQL DDL & DML queries
-├── cleaned_data.csv             # Processed dataset
-├── README.md                    # Project documentation
+├── Web Scarping Process.ipynb
+├── DDL & DML Queries.sql
+├── cleaned_data.csv
+├── raw_data.csv
+├── README.md
 ```
 
 ---
