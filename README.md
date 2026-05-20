@@ -2,7 +2,6 @@
 
 ## 📌 Project Overview
 
-This project is part of the Comprehensive Data Analytics Program Phase 0 assignment.
 The objective of this project is to build a simple ETL (Extract, Transform, Load) pipeline by collecting retail/e-commerce data from a website, processing the data using Python and Pandas, and storing the cleaned data into a PostgreSQL database.
 
 The project demonstrates fundamental skills in:
